@@ -4,8 +4,7 @@ A Power BI dashboard analyzing car sales data across five companies (Honda, Hyun
 
 ## Dashboard Preview
 
-Screenshot(155).png
-
+![Car Sales Analysis Dashboard](155).png
 ## Key Metrics
 
 - Average Selling Price: 6M
