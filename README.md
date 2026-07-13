@@ -3,8 +3,10 @@
 A Power BI dashboard analyzing car sales data across five companies (Honda, Hyundai, Kia, Suzuki, Toyota), covering pricing trends, fuel type distribution, transmission preferences, and selling price trends from 2016 to 2023.
 
 ## Dashboard Preview
+![Car Sales Analysis Dashboard](Screenshot(155)
 
-![Car Sales Analysis Dashboard](155).png
+.png)
+
 ## Key Metrics
 
 - Average Selling Price: 6M
