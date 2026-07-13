@@ -4,11 +4,7 @@ A Power BI dashboard analyzing car sales data across five companies (Honda, Hyun
 
 ## Dashboard Preview
 
-
-
-![Car Sales Analysis Dashboard](image.png)
-
-
+Screenshot(155).png
 
 ## Key Metrics
 
